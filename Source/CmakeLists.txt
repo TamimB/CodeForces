@@ -1,0 +1,7 @@
+
+set(sources "Round753Div3.cpp") 
+
+set (headers "Round753Div3.h")
+
+
+add_executable(codeForces "main.cpp" ${sources} ${headers})
